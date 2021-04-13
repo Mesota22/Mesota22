@@ -1,4 +1,6 @@
-![](https://i.imgur.com/NEc6LyW.png)
+![code](https://user-images.githubusercontent.com/68391822/114540219-8dcb5b80-9c55-11eb-81c5-cc8626e1b19b.png)
+
+
 
 
 ### Hi there 👋
@@ -63,3 +65,4 @@
     
   You can write me a dm on Discord @Mesota22 #2222
 </details>
+![code](https://user-images.githubusercontent.com/68391822/114540184-8441f380-9c55-11eb-8f5e-8781c3f5a125.png)
