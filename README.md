@@ -14,12 +14,12 @@
   
 ##  ✔️This Years to-do list...
   
-  - Get good in at least one javascript framework (Vue or React)
-  - Build a desktop app with Flutter
-  - Improve in Python
-  - learn NodeJs and MySQL (getting a full stack dev)
-  - Create 10 public Git repos
-  - Get a better understanding / overview of Git(hub)
+  - [ ] Get good in at least one javascript framework (Vue or React)
+  - [ ] Build a desktop app with Flutter
+  - [ ] Improve in Python
+  - [ ] learn NodeJs and MySQL (getting a full stack dev)
+  - [ ] Create 10 public Git repos
+  - [ ] Get a better understanding / overview of Git(hub)
 
 
 ## 💻Current Projects
