@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Skills
+## 🔧Skills
   - Dart/Flutter🎯
   - Javascript/VueJs🟡
   - Html/Css🌐
@@ -16,24 +16,32 @@
   - Get a better understanding / overview of Git(hub)
 
 
-  ## 💻Current Projects
+## 💻Current Projects
   
   <h3>Flutter💙</h3>
    - Scheduling App📅
   <h3>Vue💚</h3>
    - Online Shop🛒
+   
 
 
 <details>
+  
   <summary>📖Currently learning...</summary>
+  
   
   - Vue🟢
   - python🐍
+
 </details>
 
+## Others...
 
-
-
+<details>
+  <summary>Tools I use...</summary>
+  
+  - VsCode / Code-Server / Vim👨🏽‍💻
+  - Arch Linux / Windows 10 🐧
 </details>
 
 <details>
@@ -44,15 +52,6 @@
   - Photography📷
     
   - Vfx (After Effects)🎬
-  
-  
-</details>
-
-<details>
-  <summary>Tools I use...</summary>
-  
-  - VsCode / Code-Server / Vim👨🏽‍💻
-  - Arch Linux / Windows 10 🐧
 </details>
 
 <details>
