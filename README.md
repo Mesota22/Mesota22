@@ -24,6 +24,9 @@
    - Online Shop🛒
    
 
+</details>
+
+## Others...
 
 <details>
   
@@ -34,8 +37,6 @@
   - python🐍
 
 </details>
-
-## Others...
 
 <details>
   <summary>Tools I use...</summary>
