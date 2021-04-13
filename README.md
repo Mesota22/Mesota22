@@ -9,7 +9,7 @@
   
 ##  ✔️This Years to-do list...
   
-  - Get good at at least one javascript framework (Vue or React)
+  - Get good in at least one javascript framework (Vue or React)
   - Build a desktop app with Flutter
   - Improve in Python
   - Create 10 public Git repos
