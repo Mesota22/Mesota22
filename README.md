@@ -66,5 +66,5 @@
   You can write me a dm on Discord @Mesota22 #2222
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesota22&show_icons=true)](https://github.com/Mesota22)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesota22&show_icons=true&show_icons=true&theme=gotham)](https://github.com/Mesota22)
 
