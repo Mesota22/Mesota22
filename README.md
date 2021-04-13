@@ -17,6 +17,7 @@
   - Get good in at least one javascript framework (Vue or React)
   - Build a desktop app with Flutter
   - Improve in Python
+  - learn NodeJs and MySQL
   - Create 10 public Git repos
   - Get a better understanding / overview of Git(hub)
 
