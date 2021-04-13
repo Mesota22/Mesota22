@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+🎯
+
 <details>
   <summary>Currently working on...</summary>
   
-  ## Flutter
+  ## Flutter💙
    - Scheduling App
-  ## Vue
+  ## Vue💚
    - Online Shop
 </details>
 
@@ -40,8 +42,8 @@
 <details>
   <summary>Tools I use...</summary>
   
-  - VsCode / Code-Server / Vim
-  - Arch Linux / Windows 10
+  - 👨🏽‍💻VsCode / Code-Server / Vim
+  - 🐧Arch Linux / Windows 10
 </details>
 
 <details>
