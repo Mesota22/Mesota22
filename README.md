@@ -6,15 +6,15 @@
   <summary>Currently working on...</summary>
   
   ## Flutter💙
-   - Scheduling App
+   - Scheduling App📅
   ## Vue💚
-   - Online Shop
+   - Online Shop🛒
 </details>
 
 <details>
   <summary>Currently learning...</summary>
   
-  - Vue
+  - Vue🇻
   - python
 </details>
 
