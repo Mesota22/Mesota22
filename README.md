@@ -1,28 +1,37 @@
 ### Hi there 👋
 
-🎯
-
-<details>
-  <summary>💻Currently working on...</summary>
+## Skills
+  - Dart/Flutter🎯
+  - Javascript/VueJs🟡
+  - Html/Css🌐
+  - Python🐍
+  - C for Arduino/Raspberry🔋
   
-  ## Flutter💙
+##  ✔️This Years to-do list...
+  
+  - Get good at at least one javascript framework (Vue or React)
+  - Build a desktop app with Flutter
+  - Improve in Python
+  - Create 10 public Git repos
+  - Get a better understanding / overview of Git(hub)
+
+
+  ## 💻Current Projects
+  
+  <h3>Flutter💙</h3>
    - Scheduling App📅
-  ## Vue💚
+  <h3>Vue💚</h3>
    - Online Shop🛒
-</details>
+
 
 <details>
   <summary>📖Currently learning...</summary>
   
-  - Vue🇻
+  - Vue🟢
   - python🐍
 </details>
 
-<details>
-  <summary>✉️How to reach out to me...</summary>
-    
-  You can write me a dm on Discord @Mesota22 #2222
-</details>
+
 
 
 </details>
@@ -47,11 +56,7 @@
 </details>
 
 <details>
-  <summary>✔️This Years to-do list...</summary>
-  
-  - Get good at at least one javascript framework (Vue or React)
-  - Build a desktop app with Flutter
-  - Improve in Python
-  - Create 10 public Git repos
-  - Get a better understanding / overview of Git(hub)
+  <summary>✉️How to reach out to me...</summary>
+    
+  You can write me a dm on Discord @Mesota22 #2222
 </details>
