@@ -1,3 +1,8 @@
+# !HUGE PROJECT!
+Engrafa is going to be a new platform for people, new to programming to help them understand all the basic concepts + Tutorials for different programming languages/Frameworks 
+
+
+
 ![code](https://user-images.githubusercontent.com/68391822/114540219-8dcb5b80-9c55-11eb-81c5-cc8626e1b19b.png)
 
 
@@ -23,7 +28,6 @@
 
 
 ## 💻Current Projects
-  
   <h3>Flutter💙</h3>
    - Scheduling App📅
   <h3>Vue💚</h3>
@@ -38,7 +42,7 @@
   
   <summary>📖Currently learning...</summary>
   
-  
+  - NextJs➡️
   - Vue🟢
   - python🐍
 
