@@ -1,4 +1,4 @@
-# !HUGE PROJECT!
+# HUGE PROJECT!
 Engrafa is going to be a new platform for people, new to programming to help them understand all the basic concepts + Tutorials for different programming languages/Frameworks 
 
 
