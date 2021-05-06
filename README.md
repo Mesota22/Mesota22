@@ -27,7 +27,7 @@
 
 ## 💻Current Projects
   <h3>Flutter💙</h3>
-   - x
+   - TikTok UI challlenge with @iamEvara
   <h3>Vue💚</h3>
    - x  
   <h3>Python🐍</h3>
