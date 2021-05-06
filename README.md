@@ -1,8 +1,3 @@
-# NEW PROJECT!
-Engrafa is going to be a new platform for people, new to programming to help them understand all the basic concepts + Tutorials for different programming languages/Frameworks 
-
-
-
 ![code](https://user-images.githubusercontent.com/68391822/114540219-8dcb5b80-9c55-11eb-81c5-cc8626e1b19b.png)
 
 
@@ -68,7 +63,7 @@ Engrafa is going to be a new platform for people, new to programming to help the
 <details>
   <summary>✉️How to reach out to me...</summary>
     
-  You can write me a dm on Discord @Mesota22 #2222
+  You can write me a dm on Discord @Mesota22 #7782
 </details>
 
   
