@@ -27,7 +27,7 @@
 
 ## 💻Current Projects
   <h3>Flutter💙</h3>
-   - TikTok UI challlenge with <a href="https://github.com/iamEvara">@iamEvara</a>
+   - TikTok UI challlenge with <a href="https://github.com/iamEvara">@iamEvara</a> (code will be Open Source)
   <h3>Vue💚</h3>
    - x  
   <h3>Python🐍</h3>
