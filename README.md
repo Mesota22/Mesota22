@@ -12,7 +12,7 @@
   - Python🐍
   - C for Arduino/Raspberry🔋
 ## Frameworks
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Ffiles%2Fyb%2F61798%2Fpng%2Fflutter-logo.png&f=1&nofb=1"/>
+  <img height="10" width="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Ffiles%2Fyb%2F61798%2Fpng%2Fflutter-logo.png&f=1&nofb=1"/>
 ##  ✔️This Years to-do list...
   
   - [ ] Get good in at least one javascript framework (Vue or React)
