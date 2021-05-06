@@ -12,7 +12,7 @@
   - Python🐍
   - C for Arduino/Raspberry🔋
 
-## Frameworks
+## 🎡Frameworks
   <img alt="Flutter" height="60" width="60" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Ffiles%2Fyb%2F61798%2Fpng%2Fflutter-logo.png&f=1&nofb=1"/> <img alt="VueJs" height="60" width="60" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fvue-9-logo-png-transparent.png&f=1&nofb=1"/>
 
 ##  ✔️This Years to-do list...
@@ -27,10 +27,9 @@
 
 ## 💻Current Projects
   <h3>Flutter💙</h3>
-   - Scheduling App📅
+   - x
   <h3>Vue💚</h3>
-   - Online Shop🛒
-   
+   - x  
 
 </details>
 
@@ -40,7 +39,7 @@
   
   <summary>📖Currently learning...</summary>
   
-  - NextJs➡️
+  - React/NextJs➡️
   - Vue🟢
   - python🐍
 
@@ -49,7 +48,7 @@
 <details>
   <summary>Tools I use...</summary>
   
-  - VsCode / Code-Server / Vim👨🏽‍💻
+  - VsCode / Code-Server / Nvim👨🏽‍💻
   - Arch Linux / Windows 10 🐧
 </details>
 
