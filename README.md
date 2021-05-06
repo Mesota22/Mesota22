@@ -69,6 +69,6 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesota22&show_icons=true&show_icons=true&theme=gotham)](https://github.com/Mesota22)
 
-<img align="left" alt="Jobin's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JobinBiju&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+<img align="left" alt="Mesota's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesota22&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
 
 
