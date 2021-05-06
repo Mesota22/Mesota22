@@ -6,12 +6,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 ## 🔧Skills
-  - Dart/Flutter🎯
-  - Javascript/VueJs🟡
+  - Dart🎯
+  - Javascript🟡
   - Html/Css🌐
   - Python🐍
   - C for Arduino/Raspberry🔋
-  
+## Frameworks
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Ffiles%2Fyb%2F61798%2Fpng%2Fflutter-logo.png&f=1&nofb=1"/>
 ##  ✔️This Years to-do list...
   
   - [ ] Get good in at least one javascript framework (Vue or React)
