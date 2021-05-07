@@ -43,7 +43,7 @@
   
   - React/NextJs➡️
   - Vue🟢
-  - python🐍
+  - python/Flask🐍
 
 </details>
 
