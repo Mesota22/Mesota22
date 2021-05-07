@@ -44,6 +44,8 @@
   - React/NextJs➡️
   - Vue🟢
   - python/Flask🐍
+  - Sass
+  - Tailwind
 
 </details>
 
