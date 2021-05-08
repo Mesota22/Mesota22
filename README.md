@@ -14,7 +14,7 @@
   - C for Arduino/Raspberry🔋
 
 ## 🎡Frameworks
-  <img alt="Flutter" height="50" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Ffiles%2Fyb%2F61798%2Fpng%2Fflutter-logo.png&f=1&nofb=1"/> <img alt="VueJs" height="60" width="60" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fvue-9-logo-png-transparent.png&f=1&nofb=1"/>
+  <img alt="Flutter" height="50" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Ffiles%2Fyb%2F61798%2Fpng%2Fflutter-logo.png&f=1&nofb=1"/> <img alt="VueJs" height="50" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fvue-9-logo-png-transparent.png&f=1&nofb=1"/>
 
 ##  ✔️This Years to-do list...
   
