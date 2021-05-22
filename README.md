@@ -11,6 +11,7 @@
   - Html/Css🌐
   - Python🐍
   - Firebase🔥
+  - Flask(beginner)🌶️
   - C for Arduino/Raspberry🔋
 
 ## 🎡Frameworks
