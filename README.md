@@ -42,11 +42,7 @@
   
   <summary>📖Currently learning...</summary>
   
-  - React/NextJs➡️
-  - Vue🟢
-  - python/Flask🐍
-  - Sass
-  - Tailwind
+  - Improving in Flutter
 
 </details>
 
