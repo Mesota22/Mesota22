@@ -11,7 +11,7 @@
   - Html/Css🌐
   - Python🐍
   - Firebase🔥
-  - Flask(beginner)🌶️
+  - Flask🌶️
   - C for Arduino/Raspberry🔋
 
 ## 🎡Frameworks
@@ -21,13 +21,13 @@
   
   - [ ] Get good in at least one javascript framework (Vue or/and React)
   - [ ] Build a desktop app with Flutter
-  - [ ] Improve in Python
+  - [x] Improve in Python
   - [x] learn Flask and MySQL (getting a full stack dev)
   - [ ] Create at least 5 public Git repos
   - [x] Get a better understanding / overview of Git(hub)
 
 
-## 💻Current Projects
+## 💻Current Pulic Projects
   <h3>Flutter💙</h3>
    - 
   <h3>Vue💚</h3>
