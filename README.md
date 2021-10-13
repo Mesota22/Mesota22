@@ -10,8 +10,8 @@
   - Javascript🟡
   - Html/Css🌐
   - Python🐍
+  - SQL
   - Firebase🔥
-  - Flask🌶️
   - C for Arduino/Raspberry🔋
 
 ## 🎡Frameworks
