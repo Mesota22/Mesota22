@@ -26,16 +26,6 @@
   - [ ] Create at least 5 public Git repos
   - [x] Get a better understanding / overview of Git(hub)
 
-
-## 💻Current Pulic Projects
-  <h3>Flutter💙</h3>
-   - 
-  <h3>Vue💚</h3>
-   - x  
-  <h3>Python🐍</h3>
-   - x
-</details>
-
 ## Others...
 
 <details>
