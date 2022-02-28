@@ -21,8 +21,8 @@
   - Linux
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mesota22&show_icons=true&show_icons=true&theme=gotham)](https://github.com/Mesota22)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-Uluc&show_icons=true&show_icons=true&theme=gotham)](https://github.com/Yusuf-Uluc)
 
-<img align="left" alt="Mesota's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesota22&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
+<img align="left" alt="Yusuf's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-Uluc&langs_count=10&layout=compact&hide=html%22&hide_border=true&theme=vision-friendly-dark&bg_color=0D1117" />
 
 
