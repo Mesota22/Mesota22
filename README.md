@@ -14,6 +14,7 @@
   - Vue
   - React
   - Svelte
+  - Web 3.0
   - Python
   - Flask
   - SQL
