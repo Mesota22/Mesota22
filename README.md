@@ -12,7 +12,9 @@
   - Typescript
   - HTML/CSS/TailwindCSS
   - Vue
+  - Nuxt3
   - React
+  - NextJs
   - Svelte
   - Web 3.0
   - Python
