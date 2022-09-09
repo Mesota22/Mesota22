@@ -11,7 +11,7 @@
   - React
   - NextJs
   - Svelte
-  - Web 3.0
+  - Solana Web 3.0
   - Python
   - Flask
   - SQL
