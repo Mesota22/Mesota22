@@ -1,8 +1,3 @@
-![code](https://user-images.githubusercontent.com/68391822/114540219-8dcb5b80-9c55-11eb-81c5-cc8626e1b19b.png)
-
-
-
-
 ### Hi there ![](https://visitor-badge.glitch.me/badge?page_id=Mesota22.Mesota22)
 
 ## 🔧Skills
