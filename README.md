@@ -1,4 +1,4 @@
-### Hi there ![](https://visitor-badge.glitch.me/badge?page_id=Mesota22.Mesota22)
+### Hi there !
 
 ## 🔧Skills
 Flutter, Solana (Web3), all kinds of web frameworks, Rust, Python, ...
